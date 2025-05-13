@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com</groupId>
-    <artifactId>cadastrocliente_desktop5_base</artifactId>
+    <artifactId>cadastrocliente_exemplo5_base</artifactId>
     <version>1</version>
     <packaging>jar</packaging>
-    <name>cadastrocliente_desktop5_base</name>
+    <name>cadastrocliente_exemplo5_base</name>
     
     <dependencies>
         <dependency>
@@ -40,7 +40,7 @@
     </dependencies>
     
     <properties>        
-        <sonar.organization>osmarbraz</sonar.organization>
+        <sonar.organization>mateusam</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.coverage.exclusions>**/*Principal.*,dao.SQLiteDadosBanco,dao.cliente.SQLiteClienteMetaDados</sonar.coverage.exclusions> 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
