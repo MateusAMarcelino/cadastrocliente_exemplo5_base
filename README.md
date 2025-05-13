@@ -6,6 +6,3 @@
 
 Para ser utilizado nas atividades de CI.
 
-]
-
-
